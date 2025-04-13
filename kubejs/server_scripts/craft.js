@@ -2,4 +2,6 @@
  * @author dibeo
  * 
  */
- ServerEvents.recipes((event) => {});
+ ServerEvents.recipes((event) => {
+    event.remove({ output: 'expatternprovider:ex_inscriber' })
+ });

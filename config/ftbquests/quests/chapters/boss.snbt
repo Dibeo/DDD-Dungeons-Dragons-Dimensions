@@ -288,6 +288,17 @@
 			x: 3.0d
 			y: -1.5d
 		}
+		{
+			id: "4C4CA31D66EF02A6"
+			tasks: [{
+				entity: "mowziesmobs:frostmaw"
+				id: "686F58C38B5A257D"
+				type: "kill"
+				value: 1L
+			}]
+			x: 2.5d
+			y: -2.5d
+		}
 	]
 	title: "Boss"
 }

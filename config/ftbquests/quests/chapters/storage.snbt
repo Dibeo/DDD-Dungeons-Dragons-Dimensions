@@ -1,0 +1,50 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "storage"
+	group: ""
+	id: "77614D5C0A9811BE"
+	order_index: 9
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5B4DC885BB78D796"
+			tasks: [
+				{
+					id: "2534497A96BE86E8"
+					item: "ae2:calculation_processor_press"
+					type: "item"
+				}
+				{
+					id: "63EE907B60131887"
+					item: "ae2:engineering_processor_press"
+					type: "item"
+				}
+				{
+					id: "44DFCFE1986E5DFC"
+					item: "ae2:logic_processor_press"
+					type: "item"
+				}
+				{
+					id: "5D34A0065D47C7D8"
+					item: "ae2:silicon_press"
+					type: "item"
+				}
+			]
+			x: -3.5d
+			y: -1.0d
+		}
+		{
+			description: ["The inscriber as no useful craft so you will have to use a press to do your circuit."]
+			id: "1F1B6B1A64ECA83A"
+			tasks: [{
+				id: "2596C806206DFAE8"
+				item: "create:mechanical_press"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 1.0d
+		}
+	]
+	title: "Storage"
+}

@@ -238,8 +238,6 @@
 	sconce = true
 	sconce_lever = true
 	pancake = true
-	netherite_door = true
-	netherite_trapdoor = true
 	checker_block = true
 	raked_gravel = true
 	feather_block = true
@@ -251,6 +249,8 @@
 	fine_wood = true
 	fire_pit = true
 	wicker_fence = true
+	netherite_door = true
+	netherite_trapdoor = true
 
 	[building.flower_box]
 		enabled = true
