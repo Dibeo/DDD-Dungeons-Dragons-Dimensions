@@ -71,5 +71,17 @@
 	"quetzalcoatlLegsDef": 5,
 	"quetzalcoatlFeetDef": 2,
 	"quetzalcoatlEnchantability": 20,
-	"quetzalcoatlToughness": 6.0
+	"quetzalcoatlToughness": 6.0,
+	"generateArmorLoot": true,
+	"generateBambooHat": true,
+	"generateAnubisArmor": true,
+	"generateCenturionArmor": true,
+	"generateExaltedAurumArmor": true,
+	"generateHolyArmor": true,
+	"generateIronPlateArmor": true,
+	"generateJapaneseLightArmor": true,
+	"generateOYoroiArmor": true,
+	"generatePharaohArmor": true,
+	"generateQuetzalcoatlArmor": true,
+	"generateRaijinArmor": true
 }
