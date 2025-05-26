@@ -1,5 +1,6 @@
 ![](packmenu/resources/assets/packmenu/textures/gui/logo_whitoutbackground.jpg)
 
+[![wakatime](https://wakatime.com/badge/user/018c21c3-001e-4fd3-93ef-f7f9ec6d1fdb/project/10455a06-f9bf-42f1-acb2-1e302576c3d6.svg)](https://wakatime.com/badge/user/018c21c3-001e-4fd3-93ef-f7f9ec6d1fdb/project/10455a06-f9bf-42f1-acb2-1e302576c3d6)
 # Modpack Description
 
 Welcome to this kitchen sink modpack, a collection of **300+ mods** spanning categories like **exploration**, **magic**, **technology**, and more. This pack aims to deliver a versatile and expansive Minecraft experience without heavily altering crafting recipes, except for balancing or resolving crafting conflicts.
