@@ -292,12 +292,37 @@
 			id: "4C4CA31D66EF02A6"
 			tasks: [{
 				entity: "mowziesmobs:frostmaw"
+				icon: {
+					Count: 1
+					id: "mowziesmobs:ice_crystal"
+					tag: {
+						Damage: 0
+					}
+				}
 				id: "686F58C38B5A257D"
 				type: "kill"
 				value: 1L
 			}]
 			x: 2.5d
 			y: -2.5d
+		}
+		{
+			id: "34FBCB4B4CE7CDCD"
+			tasks: [{
+				entity: "iceandfire:gorgon"
+				icon: {
+					Count: 1
+					id: "iceandfire:gorgon_head"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "377784D58E767ABE"
+				type: "kill"
+				value: 1L
+			}]
+			x: 2.0d
+			y: -3.5d
 		}
 	]
 	title: "Boss"
