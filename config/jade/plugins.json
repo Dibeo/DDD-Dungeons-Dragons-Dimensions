@@ -54,8 +54,22 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "jadeaddons.create": {
+    "filter": true,
+    "backtank_capacity": true,
+    "goggles.requires_goggles": true,
+    "goggles": false,
+    "blaze_burner": true,
+    "exact_block": true,
+    "goggles.detailed": false,
+    "placard": true
+  },
   "tombstone": {
-    "graves": true
+    "decorative_graves": true,
+    "player_graves": true
+  },
+  "jadeaddons.mcjtylib": {
+    "jadeaddons": true
   },
   "jade": {
     "coordinates.rel": false,
@@ -69,16 +83,10 @@
     "jade_chamber": true,
     "jade_wireless": true
   },
-  "mcjtylib": {
-    "jadeaddons": true
-  },
   "apotheosis": {
     "adventure": true,
     "ench": true,
     "spawner": true
-  },
-  "lootr": {
-    "info": true
   },
   "balm": {
     "jade": true
@@ -111,6 +119,9 @@
   "hammerlib": {
     "root": true
   },
+  "jadeaddons.lootr": {
+    "info": true
+  },
   "mekanism": {
     "infuse_type": true,
     "gas": true,
@@ -132,17 +143,6 @@
   },
   "supplementaries": {
     "hat_stand": true
-  },
-  "create": {
-    "filter": true,
-    "backtank_capacity": true,
-    "goggles.requires_goggles": true,
-    "goggles": false,
-    "blaze_burner": true,
-    "exact_block": true,
-    "crafting_blueprint": true,
-    "goggles.detailed": false,
-    "placard": true
   },
   "waystones": {
     "waystone": true

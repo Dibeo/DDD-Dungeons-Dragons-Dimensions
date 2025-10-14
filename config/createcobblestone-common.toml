@@ -15,6 +15,10 @@
 	#(Can be overridden by custom generator types)
 	#Range: 0.0 ~ 3.4028234663852886E38
 	outputPerSecondPerRpm = 2.5
+	#.
+	#Log information that may be usefull for reporting a problem and debugging it.
+	#THIS WILL SPAM YOUR LOGS
+	enableDebugLogging = false
 
 	#.
 	#Cobblestone generator types
